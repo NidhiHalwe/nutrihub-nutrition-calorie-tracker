@@ -1,4 +1,4 @@
-# **FoodHub – AI Nutrition & Calorie Tracker**
+# **NutriHub – AI Nutrition & Calorie Tracker**
 
 A full-stack web app for personalized meal planning and calorie tracking powered by Google Gemini AI. Users can calculate their BMR/TDEE, generate AI-based meal plans tailored to fitness goals, and track daily nutrition with an interactive calorie calculator.
 
