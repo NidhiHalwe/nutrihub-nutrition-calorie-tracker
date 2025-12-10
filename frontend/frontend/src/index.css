@@ -1,0 +1,50 @@
+:root {
+  --color-bg: #f9fafb;
+  --color-primary: #5c67f2;
+  --color-accent: #fab13b;
+  --color-border: #e4e4e7;
+  --color-text: #28293d;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+input, button, select, textarea {
+  font-family: inherit;
+  font-size: 1rem;
+}
+
+button {
+  background: var(--color-primary);
+  color: #fff;
+  border: none;
+  padding: 0.65em 1.4em;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 0.5em;
+}
+
+button:disabled,
+button[aria-disabled="true"] {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.container {
+  max-width: 440px;
+  margin: 2.5rem auto;
+  background: #fff;
+  box-shadow: 0 2px 14px #0001;
+  padding: 2.5rem 2rem 2rem 2rem;
+  border-radius: 10px;
+}
