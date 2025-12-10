@@ -1,56 +1,58 @@
-NutriHub – Nutrition & Calorie Tracker
+# **NutriHub – Nutrition & Calorie Tracker**
 
-NutriHub is a simple and easy-to-use nutrition and calorie tracking app. It helps users monitor their daily food intake, keep track of calories, and stay consistent with their health goals.
+A simple and clean web app for tracking daily meals, calories, and basic nutrition insights.
+Built to help users stay consistent with their fitness and health goals.
 
-Features
-1. Track Food & Calories
+---
 
-Add meals with calorie details
+## **✨ Features**
 
-View total calories consumed per day
+* Track daily meals with calorie count
+* View total calories for the day
+* Simple and clear user interface
+* Easy navigation for quick usage
 
-2. Nutrition Insights
+---
 
-See nutritional breakdown
+## **🛠️ Tech Stack**
 
-Helps in planning healthier meals
+* React
+* JavaScript
+* HTML & CSS
 
-3. Clean Interface
+---
 
-Simple UI
+## **📁 Project Setup**
 
-Easy navigation
+### **1. Clone the repository**
 
-Tech Stack
-
-React JS
-
-HTML / CSS
-
-JavaScript
-
-How to Run Locally
-
-Clone the repository:
-
+```sh
 git clone https://github.com/NidhiHalwe/nutrihub-nutrition-calorie-tracker.git
+```
 
+### **2. Install dependencies**
 
-Install dependencies:
-
+```sh
 npm install
+```
 
+### **3. Start the project**
 
-Start the project:
-
+```sh
 npm start
+```
 
+Project will run at:
 
-The app will run at
-
+```
 http://localhost:3000
+```
 
-Project Structure
+---
+
+## **📂 Folder Structure**
+
+```
 nutrihub-nutrition-calorie-tracker/
 │
 ├── src/
@@ -60,15 +62,15 @@ nutrihub-nutrition-calorie-tracker/
 │   └── App.js
 │
 └── README.md
+```
 
-Screenshots
 
-(Add screenshots here later)
+## **🤝 Contributing**
 
-Contributing
+If you’d like to improve the project, feel free to fork the repo and submit a pull request.
 
-Contributions are welcome. Fork the repo, make changes, and open a pull request.
+---
 
-License
+## **📄 License**
 
-This project is open-source and free to use.
+Open-source • Free to use
